@@ -1,8 +1,8 @@
 {
-    "name": "APCOvernight/pinpoint-client-php",
-    "description": "",
+    "name": "apc-overnight/pinpoint-client-php",
+    "description": "APC Overnight PinPoint API Client Library (php).  Integrate your PHP solution with PinPoint, and track parcels being delievered by APC Overnight",
     "keywords": [
-        "swagger",
+        "apc-overnight",
         "php",
         "sdk",
         "api"
